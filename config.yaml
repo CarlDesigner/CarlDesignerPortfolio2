@@ -143,19 +143,19 @@ params:
     title: "Acerca de"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      Empecé mi trayectoria profesional como operador de medios tecnológicos. Actualmente, Soy un desarrollador de software +2 años de experiencia en el desarrollo de aplicaciones. Mi objetivo es utilizar mis habilidades y conocimientos para crear aplicaciones de alta calidad que sean útiles para los usuarios. Actualmente me especializo en el desarrollo de aplicaciones web utilizando JavaScript, Html5, Css3, pero también tengo experiencia en el uso de otras tecnologías como React js, Bootstrap, Python, Wordpress, Firebase, Git y GitHub, Figma y Bases de datos SQL y NoSQL.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Estoy comprometido a ofrecer un servicio excepcional, a entregar proyectos a tiempo y con alta calidad. Si estás interesado en trabajar conmigo o tienes alguna pregunta sobre mi experiencia, no dudes en ponerte en contacto conmigo. ¡Estaré encantado de ayudarte!.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "He aquí algunas tecnologías con las que he estado trabajando recientemente:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "HTML5"
+        - "CSS3"
+        - "Javascript"
+        - "Python"
+        - "MongoDB"
+        - "Node.js"
 
   # Experience
   experience:
