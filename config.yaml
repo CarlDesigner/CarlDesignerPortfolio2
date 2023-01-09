@@ -256,24 +256,19 @@ params:
         #GPA: "4.85"
         content: |-
           Materias vistas
-          - Fundamentos de Programación en Python.
-          - Programación con Java.
-          - Desarrollo de Software.
-          - Desarrollo de Aplicaciones Web.
+          - [Fundamentos de Programación en Python](https://certificadomisionticutp.com/apiv1/public/docs/1/_1101694823-.pdf).
+          - [Programación con Java](https://certificadomisionticutp.com/apiv1/public/docs/2/_1101694823-.pdf).
+          - [Desarrollo de Software](https://certificadomisionticutp.com/apiv1/public/docs/3/_1101694823-.pdf).
+          - [Desarrollo de Aplicaciones Web](https://certificadomisionticutp.com/apiv1/public/docs/4A/_1101694823-.pdf).
 
-        # featuredLink:
-        #   enable: true
-        #   name: "My academic record"
-        #   url: "https://example.com"
-        
       - title: "Educación Complementaria"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        # school:
+        #   name: "Universidad Tecnológica de Pereira"
+        #   url: "https://www.misiontic2022.gov.co/portal/"
+        content: |-
+          - [Bases de Datos Generalidades y Sistemas de Gestión - SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html).
+          - [Metodologia de la Programación de Sistemas Informáticos - SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html).
+          
 
   # Achievements
   achievements:
