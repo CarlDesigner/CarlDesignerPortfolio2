@@ -1,3 +1,3 @@
 ## Portfolio for CarlDesigner
 
-> Author: **CarlDesigner**
+Author: `@CarlDesigner`
